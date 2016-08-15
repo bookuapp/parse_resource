@@ -201,7 +201,7 @@ module ParseResource
 
     # Gets the current class's Parse.com base_uri
     def self.model_base_uri
-      "https://api.parse.com/1/#{model_name_uri}"
+      "https://bookuapp.herokuapp.com/parse/#{model_name_uri}"
     end
 
     # Gets the current instance's parent class's Parse.com base_uri
@@ -231,7 +231,7 @@ module ParseResource
       return true if save_objects.blank?
       load_settings
 
-      base_uri = "https://api.parse.com/1/batch"
+      base_uri = "https://bookuapp.herokuapp.com/parse/batch"
       app_id     = @@settings['app_id']
       master_key = @@settings['master_key']
 
