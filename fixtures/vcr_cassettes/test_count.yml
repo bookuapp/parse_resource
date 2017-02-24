@@ -127,7 +127,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:10:50 GMT
       Location:
-      - https://api.parse.com/1/classes/Author/cGuCIZWEyW
+      - https://bookuapp.herokuapp.com/parse/classes/Author/cGuCIZWEyW
       Server:
       - nginx/1.4.2
       Set-Cookie:
@@ -225,7 +225,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:10:51 GMT
       Location:
-      - https://api.parse.com/1/classes/Author/TJEGEYnRu2
+      - https://bookuapp.herokuapp.com/parse/classes/Author/TJEGEYnRu2
       Server:
       - nginx/1.4.4
       Set-Cookie:

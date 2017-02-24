@@ -127,7 +127,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:15:48 GMT
       Location:
-      - https://api.parse.com/1/roles/6i0yyHCGhg
+      - https://bookuapp.herokuapp.com/parse/roles/6i0yyHCGhg
       Server:
       - nginx/1.4.2
       Set-Cookie:

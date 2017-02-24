@@ -127,7 +127,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:10:20 GMT
       Location:
-      - https://api.parse.com/1/classes/Post/rhT4FiryMR
+      - https://bookuapp.herokuapp.com/parse/classes/Post/rhT4FiryMR
       Server:
       - nginx/1.4.2
       Set-Cookie:

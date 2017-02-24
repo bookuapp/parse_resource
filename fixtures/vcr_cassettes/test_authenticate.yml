@@ -127,7 +127,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:15:50 GMT
       Location:
-      - https://api.parse.com/1/users/ySlcdSuD27
+      - https://bookuapp.herokuapp.com/parse/users/ySlcdSuD27
       Server:
       - nginx/1.4.2
       Set-Cookie:

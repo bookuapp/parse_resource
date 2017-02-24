@@ -127,7 +127,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:10:27 GMT
       Location:
-      - https://api.parse.com/1/classes/Straw/KoS7MWCtsI
+      - https://bookuapp.herokuapp.com/parse/classes/Straw/KoS7MWCtsI
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -225,7 +225,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:10:28 GMT
       Location:
-      - https://api.parse.com/1/classes/Straw/v7tCW5OPLe
+      - https://bookuapp.herokuapp.com/parse/classes/Straw/v7tCW5OPLe
       Server:
       - nginx/1.4.4
       Set-Cookie:

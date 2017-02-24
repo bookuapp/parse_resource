@@ -127,7 +127,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:43 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/c5RmvzimFB
+      - https://bookuapp.herokuapp.com/parse/classes/Place/c5RmvzimFB
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -225,7 +225,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:44 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/HNq425NNbL
+      - https://bookuapp.herokuapp.com/parse/classes/Place/HNq425NNbL
       Server:
       - nginx/1.4.2
       Set-Cookie:
@@ -323,7 +323,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:45 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/kvycXYrecr
+      - https://bookuapp.herokuapp.com/parse/classes/Place/kvycXYrecr
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -421,7 +421,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:46 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/gC0vrFpCYo
+      - https://bookuapp.herokuapp.com/parse/classes/Place/gC0vrFpCYo
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -519,7 +519,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:47 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/RatqrszqSj
+      - https://bookuapp.herokuapp.com/parse/classes/Place/RatqrszqSj
       Server:
       - nginx/1.4.2
       Set-Cookie:
@@ -617,7 +617,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:48 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/pBQTcnBPII
+      - https://bookuapp.herokuapp.com/parse/classes/Place/pBQTcnBPII
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -715,7 +715,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:48 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/ZYVoiQqsQ1
+      - https://bookuapp.herokuapp.com/parse/classes/Place/ZYVoiQqsQ1
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -813,7 +813,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:49 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/12fSgCBwF4
+      - https://bookuapp.herokuapp.com/parse/classes/Place/12fSgCBwF4
       Server:
       - nginx/1.4.2
       Set-Cookie:
@@ -911,7 +911,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:51 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/5bfKIwNCrx
+      - https://bookuapp.herokuapp.com/parse/classes/Place/5bfKIwNCrx
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -1009,7 +1009,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:52 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/iHHkjgZKtq
+      - https://bookuapp.herokuapp.com/parse/classes/Place/iHHkjgZKtq
       Server:
       - nginx/1.4.4
       Set-Cookie:
@@ -1107,7 +1107,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:52 GMT
       Location:
-      - https://api.parse.com/1/classes/Place/nrfMMV7gFK
+      - https://bookuapp.herokuapp.com/parse/classes/Place/nrfMMV7gFK
       Server:
       - nginx/1.4.2
       Set-Cookie:

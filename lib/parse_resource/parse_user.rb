@@ -4,7 +4,7 @@ class ParseUser < ParseResource::Base
   fields :username, :password
 
   def self.authenticate(username, password)
-    base_uri   = "https://api.parse.com/1/login"
+    base_uri   = "https://bookuapp.herokuapp.com/parse/login"
     app_id     = settings['app_id']
     master_key = settings['master_key']
     resource = RestClient::Resource.new(base_uri, app_id, master_key)
@@ -17,11 +17,11 @@ class ParseUser < ParseResource::Base
     rescue 
       false
     end
-    
+
   end
   
   def self.authenticate_with_facebook(user_id, access_token, expires)
-    base_uri   = "https://api.parse.com/1/users"
+    base_uri   = "https://bookuapp.herokuapp.com/parse/users"
     app_id     = settings['app_id']
     master_key = settings['master_key']
     resource = RestClient::Resource.new(base_uri, app_id, master_key)
@@ -46,7 +46,7 @@ class ParseUser < ParseResource::Base
   end
   
   def self.reset_password(email)
-      base_uri   = "https://api.parse.com/1/requestPasswordReset"
+      base_uri   = "https://bookuapp.herokuapp.com/parse/requestPasswordReset"
       app_id     = settings['app_id']
       master_key = settings['master_key']
       resource = RestClient::Resource.new(base_uri, app_id, master_key)

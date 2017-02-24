@@ -313,7 +313,7 @@ module ParseResource
     def self.upload(file_instance, filename, options={})
       load_settings
 
-      base_uri = "https://api.parse.com/1/files"
+      base_uri = "https://bookuapp.herokuapp.com/parse/files"
 
       #refactor to settings['app_id'] etc
       app_id     = @@settings['app_id']

@@ -29,7 +29,7 @@ http_interactions:
       Date:
       - Fri, 14 Mar 2014 21:11:28 GMT
       Location:
-      - https://api.parse.com/1/classes/Knife/NquJfqlY3q
+      - https://bookuapp.herokuapp.com/parse/classes/Knife/NquJfqlY3q
       Server:
       - nginx/1.4.2
       Set-Cookie:
